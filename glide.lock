@@ -1,0 +1,12 @@
+hash: ac85f33d99895152537836310b8e322ad38e4e80c9d86081c714effab4f2d3f6
+updated: 2017-05-25T15:17:55.734122254+03:00
+imports:
+- name: golang.org/x/tools
+  version: bf4b54dc687c73b6ef63de8b8abf0ad3951e3edc
+  subpackages:
+  - go/ast/astutil
+  - go/buildutil
+  - go/loader
+- name: gopkg.in/alecthomas/kingpin.v2
+  version: 7f0871f2e17818990e4eed73f9b5c2f429501228
+testImports: []

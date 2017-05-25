@@ -1,0 +1,5 @@
+package: github.com/THE108/enumlinter
+import:
+- package: golang.org/x/tools
+  subpackages:
+  - go/loader
